@@ -23,4 +23,4 @@ Involves exploring system behaviour and customer behaviour
 
 * ***Volume.ipynb***: Analyzes the amounts over time
 * ***Transaction.ipynb***: Analyzes number of transactions over time
-* ***Transaction V2.0.ipynb***: Analyzes number of transactions over time
+
