@@ -24,3 +24,8 @@ Involves exploring system behaviour and customer behaviour
 * ***Volume.ipynb***: Analyzes the amounts over time
 * ***Transaction.ipynb***: Analyzes number of transactions over time
 
+### Customer Behaviour
+* ***Customer Behaviour.ipynb***: Analyzes customer behaviour
+
+## Model Building
+* ***Customer Behaviour Regression Models.ipynb***: Created regression models to predict a customer's amount using past amounts and timestamp 
